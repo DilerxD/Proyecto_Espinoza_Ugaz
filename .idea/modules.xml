@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Proyecto_Espinoza_Ugaz.iml" filepath="$PROJECT_DIR$/Proyecto_Espinoza_Ugaz.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pichangers (copy 1).iml" filepath="$PROJECT_DIR$/pichangers (copy 1).iml" />
     </modules>
   </component>
 </project>
