@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pichangers</string>
+    <string name="login_prompt">Login</string>
+    <string name="user_prompt">Ingrese Usuario</string>
+    <string name="password_prompt">Ingrese Contraseña</string>
+    <string name="login_button">Inscribirse</string>
+    <string name="button_agregar">Agregar</string>
+    <string name="grid_placeholder">placeholder</string>
+</resources>

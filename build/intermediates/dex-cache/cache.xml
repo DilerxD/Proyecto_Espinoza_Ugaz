@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\CarlosGabriel\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_c64fc8301fdd1f6754baa9c8b8eea80181ae2376\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_2041b7e835347cf5541d7c397b41ee544e5b54ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_07cb40f2823c956428c69f53146c0cb25359290c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_327522715b135a6fb6769489bb648f298967a5a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CarlosGabriel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_85781b5a7997065da1b446cb4a4b9427bb4bae09\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CarlosGabriel\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_d3c1761b081bead21306f4c342bf9a0c2b62a3c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_34571baaa100142ebee498f222ee36c70f703ec9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="33ea8cc3bd74b84df518b49c3e594588941c311d">
+        <dex dex="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8b0a648f3499fee3c76cba856ef57a4076ea80af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CarlosGabriel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_4b3da027422fffe08688a01afc1bbbb1828d1689\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6cafaeee5116559ad485359fb47e8d6b49c7ed2d">
+        <dex dex="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cedcd6d6d77612595b83d88ac37d9632b752e86e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_f12b062ed17e28a35746eda923839fb0bfcb1008\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CarlosGabriel\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_694469146fdffaf86886cea110c8ffdc7761ba0a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CarlosGabriel\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_89569a88148a91be9c72e2e9e71a09b72f5e396c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CarlosGabriel\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\CarlosGabriel\Desktop\al-pdm\pichangers (copy 1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_0d6180b08c19f214af2d98ce3d62e0200a020282\classes.dex" />
+    </item>
+
+</items>
